@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Por que os dados são o futuro?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá pessoal, sabemos como os dados são essenciais para a sobrevivência das organizações. Eles são ativos essenciais para gerar riqueza e qualidade para as empresas.
+Pessoalmente, eu tenho muito interesse na área de dados, afinal, tudo hoje em dia produz dados. E a possibilidade de poder utilizá-los para diversos âmbitos é fantástico.
+
+Seguindo tal raciocínio, eu criei um e-book, unindo minha paixão pela área e a importância dos dados. Nele, eu falo um pouco da minha visão e do meu interesse pelos dados. Por mais que pareça apenas um e-book normal, ele foi criado com roteiro e organização gerado pelo ChatGPT e imagens pela Lexica.
+
+Dessa forma, esse e-book tem a minha essência estruturada por IAs.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1. ChatGPT - roteiro e organização das ideias
+2. Lexica - produção da imagem utilizada na capa
+3. Canva - textos utilizados na capa
+4. Word - escrita e organização do texto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, foi muito difícil encontrar qual projeto produzir com a ajuda das IAs.
+
+Nessa falta de criatividade, resolvi escrever um livro sobre criatividade e arte. No entanto, não sabia como começar a escrevê-lo. Comecei então a buscar por IAs capazes de produzir imagens para eu utilizar na capa do livro. Eu encontrei a Lexica e busquei por uma imagem que fosse como uma pintura. A imagem produzida era uma vista do alto mar no entardecer.
+Graças à dificuldade em começar a escrever, dei um tempo e fui estudar um pouco sobre ciência de dados e ali me veio a ideia de escrever um e-book, juntando a história por trás do motivo que eu comecei a estudar dados e do porquê eles são essenciais atualmente.
+Com a ideia da outra imagem, ainda sobre criatividade, eu pedi para a Lexica encontrar imagens que possuíssem uma imagem do céu e tivessem alguma coisa relacionada com dados. Afinal, o futuro tem relação com um horizonte é uma visão à frente, e os computadores na imagem representam bem toda a tecnologia relacionada aos dados. 
+Depois realizei a estruturação da capa, colocando meu nome e o título para o livro. E, então, pedi para o ChatGPT me pontuar os principais motivos para os dados serem importantes atualmente. Com os pontos colocados por ele, escolhi aqueles que eu tinha maior afinidade. E, a partir disso, comecei a estruturar quais temas eu gostaria de abordar no e-book.
+Com os temas que eu tinha afinidade definidos, pedi para ele estruturar um roteiro de qual ordem abordar os temas.
+A partir disso, escrevi o texto. Com o texto pronto, pedi para o ChatGPT separar o texto em capítulos e gerar nomes de capítulos para cada parte.
+E, por fim, inseri a imagem gerada pela Lexica no corpo do meu texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Clique para acessar o e-book](https://github.com/mathwatanabe/lab-natty-or-not/files/15425384/DIO.ebook.desafio.projeto.IA.pdf)
